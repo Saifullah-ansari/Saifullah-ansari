@@ -1,7 +1,7 @@
 ![MasterHead](https://i.imgur.com/c7GmAJf.png)
 <h1 align="center">Hi 👋, I'm Saifullah Ansari</h1>
 <h3 align="center">A passionate full Stack java developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
+<!-- <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU"> -->
 
 - 🔭 I’m currently working on **React js project**
 
